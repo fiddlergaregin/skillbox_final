@@ -5,12 +5,6 @@ final project on the Golang course at Skillbox education platform
 
 Симулятор предпочтительно запускать из его собственной директории
 
-```
-danil@FunBox:~/diplomtemp$ cd simulator
-
-danil@FunBox:~/diplomtemp/simulator$ go run main.go
-```
-
 После запуска в директории simuator будут сгенерированы файлы с тестовыми данными, именно их мы и будем забирать нашим сервисом для дальнейшей обработки
 
 ```
