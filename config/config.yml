@@ -1,0 +1,17 @@
+app:
+  path_to_data: '../garegin_go_addon/'
+
+http:
+  local_port: '8282'
+  local_host: '127.0.0.1'
+  data_port: '8383'
+  data_host: '127.0.0.1'
+
+sms:
+  sms_data_file: 'sms.data'
+  sms_number_of_fields: 4
+  sms_valid_providers:
+  - Topolo
+  - Rond
+  - Kildy
+
